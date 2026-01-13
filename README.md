@@ -1,116 +1,208 @@
 # Orggly Marketing Command Center
 
-This repository is Gabriel's strategic brain for Orggly marketing and growth. It's a living system that evolves based on what's actually happening, not rigid plans.
-
-## 🎯 Current Phase
-
-**Nubcat Launch - Week 1**
-- 3 social campaigns live
-- $23,100 in $NUB budget
-- Building relationships with community
-- Testing quote tweet campaigns for TOS safety
-
-## 🚀 Quick Start
-
-**Need to do marketing right now?**
-1. Read [NOW.md](NOW.md) - Shows current situation and top 3 next actions
-2. Reference relevant playbook in `/playbooks/`
-3. Check voice guide in `/strategy/` to stay on-brand
-4. Execute and update NOW.md with results
-
-**Need to create content?**
-1. Check [NOW.md](NOW.md) for current context
-2. Read [strategy/founder-voice.md](strategy/founder-voice.md) or [strategy/brand-voice.md](strategy/brand-voice.md)
-3. Use templates from relevant playbook
-4. Draft in `/content/` files
-5. Post and archive with performance notes
-
-## 📂 Structure
-
-```
-├── NOW.md ⭐ - Single source of truth for current state
-├── /strategy/ - Vision, voice, messaging frameworks
-├── /playbooks/ - How to execute on different channels
-├── /tracking/ - Campaigns, experiments, wins, fails
-├── /updates/ - Weekly summaries (when you have time)
-└── /content/ - Tweet drafts and archives
-```
-
-## 🎭 The Two Voices
-
-**@galborta (Founder Account)**
-- Builder-authentic, transparent, personal
-- Posts 2-3x daily
-- Engages directly with community
-- [Voice Guide](strategy/founder-voice.md) | [Playbook](playbooks/twitter-galborta.md)
-
-**@useOrggly (Brand Account)**
-- Professional, data-driven, product-focused
-- Posts 1x daily max
-- Announcements and metrics
-- [Voice Guide](strategy/brand-voice.md) | [Playbook](playbooks/twitter-useorggly.md)
-
-## 📊 How This Works
-
-**Flexible, not rigid:**
-- Update when things change, not on a schedule
-- Some weeks lots of activity, some weeks minimal
-- NOW.md is the only file that MUST stay current
-
-**Captures learnings:**
-- What worked → `/tracking/wins.md`
-- What failed → `/tracking/fails.md`
-- Experiments → `/tracking/experiments.md`
-
-**Evolves strategy:**
-- Strategy docs update when we learn something big
-- Playbooks update when we find better tactics
-- NOW.md keeps everything grounded in reality
-
-## 🔄 Typical Workflow
-
-### Got 30 min for marketing?
-1. Open NOW.md (2 min)
-2. Do highest priority action (20 min)
-3. Update NOW.md (5 min)
-4. Log any learnings in `/tracking/` (3 min)
-
-### Got time for content creation?
-1. Check NOW.md for context
-2. Reference voice guide
-3. Draft 3-5 tweets in `/content/`
-4. Schedule/post throughout week
-
-### Weekly check-in (30 min on Sunday)
-1. Create update in `/updates/`
-2. Review NOW.md - still accurate?
-3. Check experiments - any conclusions?
-4. Plan next week's top 3 actions
-
-## 📈 Success Metrics
-
-**This repo is working if:**
-- You reference NOW.md before any marketing activity
-- You know what to do when you have 30 free minutes
-- Learnings actually change your approach
-- You don't repeat failed tactics
-- Content sounds authentically like Gabriel/Orggly
-
-**It's failing if:**
-- NOW.md is weeks out of date
-- You do marketing randomly without checking it
-- You forget what you already tested
-- It feels like a chore instead of a tool
-
-## 🎯 Core Principles
-
-1. **Reality over plans** - Document what's happening, adjust based on truth
-2. **Quality over volume** - Better to post 1 great tweet than 5 mediocre ones
-3. **Relationships over broadcasting** - Community first, promotion second
-4. **Learning over perfection** - Every experiment produces useful data
-5. **Authenticity over polish** - Sound like Gabriel, not a marketing team
+> Living strategic brain for Orggly marketing - evolves with every campaign
 
 ---
 
-**Last updated:** January 12, 2026  
-**Next review:** When something significant changes or weekly
+## What This Is
+
+This repository is the **single source of truth** for Orggly's marketing and growth operations. It's not static documentation - it's a living system that changes based on what we learn from every campaign, every conversation, every experiment.
+
+**Current focus:** Launching Orggly's first campaign with the Nubcat memecoin community on Solana.
+
+---
+
+## How This Repository Evolves
+
+This is a LIVING repository that changes based on what we learn:
+
+### DAILY UPDATES
+- **NOW.md:** Current priorities, traction, blockers
+- **tracking/campaigns.md:** New submissions, payments, metrics
+- **content/*.md:** New tweet drafts, archive posted content
+
+### WEEKLY UPDATES
+- **tracking/wins.md:** Document what worked
+- **tracking/fails.md:** Document what didn't work
+- **tracking/experiments.md:** Update experiment results
+
+### MONTHLY UPDATES
+- **playbooks/*.md:** Refine based on learnings
+- **strategy/*.md:** Major pivots or new partnerships
+
+### NEVER CHANGE
+- Core founder voice (strategy/gabriel-orggly-founder-persona.md)
+- Repository structure
+
+---
+
+## Repository Structure
+
+```
+orggly-growth/
+├── README.md                    # ← Start here
+├── NOW.md                       # ← Check daily (current priorities)
+├── UPDATES.md                   # ← Change log
+├── HOW-TO-UPDATE.md            # ← Update instructions
+│
+├── strategy/                    # Foundation (rarely changes)
+│   ├── gabriel-orggly-founder-persona.md
+│   ├── orggly-nubcat-strategist.md
+│   ├── orggly-community-growth-strategist-prompt.md
+│   ├── orggly-economic-activity-strategy.md
+│   └── orggly-marketing-persona-prompt.md
+│
+├── playbooks/                   # Tactics (updates monthly)
+│   ├── twitter-galborta.md     # @galborta posting strategy
+│   ├── twitter-useorggly.md    # @useOrggly brand account
+│   ├── community.md             # Nubcat engagement tactics
+│   └── dm-outreach.md           # How to DM effectively
+│
+├── tracking/                    # Results (updates daily/weekly)
+│   ├── campaigns.md             # Campaign submissions & payments
+│   ├── experiments.md           # What we're testing
+│   ├── fails.md                 # What didn't work (and why)
+│   └── wins.md                  # What worked (and why)
+│
+└── content/                     # Drafts & archive (updates constantly)
+    ├── tweets-galborta.md       # @galborta content pipeline
+    └── tweets-useorggly.md      # @useOrggly content pipeline
+```
+
+---
+
+## Quick Start
+
+### Every Morning
+1. **Read NOW.md** - What are today's top 3 priorities?
+2. Check tracking/ for latest campaign metrics
+3. Review content/ for tweets ready to post
+
+### Before Posting
+1. Check playbooks/ for voice and templates
+2. Draft in content/*.md first (don't post raw)
+3. Cross-reference with strategy/ for alignment
+
+### After Campaign Activity
+1. Update tracking/campaigns.md with new submissions
+2. Log wins or fails in tracking/
+3. Update NOW.md if priorities changed
+
+### Weekly Review
+1. Update tracking/wins.md and fails.md
+2. Revise NOW.md "Top 3" for next week
+3. Check if playbooks/ need updates based on learnings
+
+---
+
+## Core Documents Explained
+
+### strategy/ - Foundation (Rarely Changes)
+These define WHO we are and WHY we're doing this:
+- **gabriel-orggly-founder-persona.md:** Founder voice, beliefs, Nubcat thesis
+- **orggly-nubcat-strategist.md:** Campaign tactics, job types, launch strategy
+- **orggly-community-growth-strategist-prompt.md:** Community engagement framework
+- **orggly-economic-activity-strategy.md:** Business model and tokenomics
+- **orggly-marketing-persona-prompt.md:** Marketing execution guidelines
+
+### playbooks/ - Tactics (Updates Monthly)
+These define HOW we execute:
+- **twitter-galborta.md:** What/when to post on founder account
+- **twitter-useorggly.md:** What/when to post on brand account
+- **community.md:** Nubcat Telegram/Twitter engagement rules
+- **dm-outreach.md:** Who to DM, templates, volume limits
+
+### tracking/ - Results (Updates Daily/Weekly)
+These define WHAT'S WORKING:
+- **campaigns.md:** Live tracking of all campaign submissions and payments
+- **experiments.md:** Hypotheses we're testing with real metrics
+- **fails.md:** What didn't work (more valuable than wins)
+- **wins.md:** What worked and why
+
+### content/ - Execution (Updates Constantly)
+These are the actual posts:
+- **tweets-galborta.md:** Drafts ready to post + archive of posted content
+- **tweets-useorggly.md:** Brand account content pipeline
+
+---
+
+## Operating Principles
+
+### 1. NOW.md is Source of Truth
+If it's not in NOW.md, it's not a current priority. Update NOW.md FIRST when anything changes.
+
+### 2. Document Everything (Wins AND Fails)
+Failures are more valuable than wins if we learn from them. Log both immediately in tracking/.
+
+### 3. Archive, Don't Delete
+When something is outdated, move it to the bottom of the file. Never delete history.
+
+### 4. Transparency > Perfection
+Better to admit "cold launch failed, pivoting" than pretend everything is working.
+
+### 5. Iterate Based on Data, Not Assumptions
+Every experiment in tracking/experiments.md must have measurable success criteria.
+
+---
+
+## Current Campaign: Nubcat Launch
+
+**Status:** Day 1 - Campaigns live, pivoting from cold launch to listening tour
+
+**Context:**
+- Orggly is a decentralized jobs platform on Solana
+- First campaign: Nubcat community (memecoin with 12-year history, $10.5M mcap)
+- Founder: Gabriel Alborta (@galborta on Twitter), based in Barcelona
+- Platform accounts: @galborta (founder), @useOrggly (brand)
+- Focus: Social Jobs feature (pay community members in $NUB to create content)
+
+**What We're Learning:**
+- Cold launch (campaigns → DMs → submissions) didn't work
+- Need to build relationships first before asking for participation
+- Community doesn't know who we are yet
+
+**Current Approach:**
+- Listening tour: DM 10-15 Nubcat holders for feedback (not participation)
+- Engage in Nubcat spaces without mentioning Orggly
+- Earn trust before inviting participation
+
+See **NOW.md** for detailed current state.
+
+---
+
+## Key Links
+
+- **Orggly Platform:** https://orggly.com
+- **Founder Twitter:** https://twitter.com/galborta
+- **Brand Twitter:** https://twitter.com/useOrggly
+- **Nubcat Community:** https://twitter.com/nubcat (currently suspended)
+- **Nubcat Telegram:** https://t.me/nubportal
+
+---
+
+## For New Contributors
+
+1. Read NOW.md to understand current priorities
+2. Read strategy/gabriel-orggly-founder-persona.md to understand founder voice
+3. Read playbooks/ to understand execution tactics
+4. Check tracking/ to see what's working/not working
+5. Never post without drafting in content/ first
+
+---
+
+## Questions?
+
+This repository is maintained by Gabriel Alborta (@galborta). 
+
+For questions about:
+- **Strategy:** Check strategy/ first
+- **Tactics:** Check playbooks/ first  
+- **Current state:** Check NOW.md first
+- **Results:** Check tracking/ first
+
+If you can't find the answer, open an issue or DM @galborta.
+
+---
+
+**Last updated:** January 13, 2026  
+**Repository version:** 1.0 (Nubcat Launch)
