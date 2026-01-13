@@ -17,9 +17,100 @@
 
 ## Week 1 Wins
 
-*[Empty - nothing working yet, just launched Day 1]*
+### Win #1: First Payment Sent - Broke the Ice
 
-*First wins will be added here as they happen*
+**Date:** January 13, 2026
+
+**What we did:**
+- Received first social job submission (Campaign 1: "Why Nubcat Is Underrated")
+- Submission didn't follow guidelines (low-effort "Interesting read 👀" instead of 50+ char commentary)
+- Participant had only 40 followers (below our new 500 minimum)
+- BUT participant helped find bugs in submission flow
+- We paid them anyway (509 $NUB)
+- Tweeted about the payment from both @galborta and @useOrggly
+
+**Result:**
+- First proof that payment system works end-to-end
+- Social proof created (community can see someone actually got paid)
+- Platform bugs identified and reported
+- Went from 0 submissions to 3 in one day (1 social job + 2 banner designs)
+- Total paid: 509 $NUB
+
+**Why it worked:**
+- Flexibility matters more than perfect guidelines early on
+- Rewarding helpful behavior (bug finding) builds goodwill
+- First payment breaks psychological barrier for others
+- Public celebration creates social proof
+- Showing we follow through is more valuable than enforcing quality at day 1
+
+**Key insight:**
+The first payment is more about proving the system works than getting perfect content. Once people see someone actually got paid, they'll feel safer participating. Quality can be enforced later once you have volume.
+
+**How to repeat:**
+1. When receiving imperfect early submissions, look for ANY value-add beyond content
+2. Pay them if they contributed something (bug reports, feedback, community intro)
+3. Celebrate payment publicly to create social proof
+4. Use founder voice to acknowledge imperfection but emphasize follow-through
+5. Set clearer guidelines for future submissions based on what you learned
+
+**How to scale:**
+- Can't pay everyone who doesn't follow guidelines forever
+- But in first week, prioritize proof of payment over perfect quality
+- After 5-10 payments, can start enforcing standards
+- The social proof compounds: each payment makes next one easier
+
+**Related learnings:**
+- Need to add Twitter handle request to all submission forms
+- 500 follower minimum might kill early participation (monitor)
+- Guidelines need to be clearer or we need to accept minimum viable effort
+- Banner contest (higher effort, bigger prize) got faster traction than social jobs
+
+---
+
+### Win #2: Banner Contest Getting Early Traction
+
+**Date:** January 13, 2026
+
+**What we did:**
+- Launched Twitter banner design contest featuring Nubcat
+- 10,000 $NUB prize for winner
+- All participants get paid for effort
+- 6 day deadline
+
+**Result:**
+- 2 submissions in first 24 hours
+- Both designers submitted without us doing any outreach
+- Shows higher-effort creative work is attractive with bigger prizes
+- Still 5d 21h remaining to get more submissions
+
+**Why it worked:**
+- Creative work is more appealing than repetitive social posts
+- 10,000 $NUB prize is significant motivation (vs $8-90 for social jobs)
+- Clear deliverable (banner design) vs vague "thoughtful commentary"
+- Novelty: first contest vs ongoing social job campaigns
+- Designers get to showcase their work publicly
+
+**Key insight:**
+Higher effort + higher reward + creative freedom = better early participation than low-effort repetitive tasks. People want to create, not just spam.
+
+**How to repeat:**
+1. Create contests with specific creative deliverables
+2. Make prizes 10x+ the normal per-task rate
+3. Guarantee payment for all participants (not just winner)
+4. Give credit publicly to all submissions
+5. Let community vote on winner (engagement + fairness)
+
+**How to scale:**
+- Can't run 10K prize contests constantly (budget)
+- But could do monthly featured contests
+- Alternate: big creative contests + ongoing social jobs
+- Use contests to attract designers/creators, social jobs for reach
+
+**Related learnings:**
+- Missing designer Twitter handles (need to add to submission flow)
+- Design quality is mixed but shows people are trying
+- Consider creating design tier system (logo, banner, graphics) with different prizes
+- Community voting could boost engagement
 
 ---
 
@@ -57,47 +148,5 @@
 
 ---
 
-## Example Format
-
-### Win #1: DM Feedback Conversation Led to First Submission
-
-**Date:** January 15, 2026
-
-**What we did:**
-- DM'd @example_user asking for feedback (not participation)
-- Had 10 min conversation about their needs
-- Incorporated their suggestion about tier structure
-- Followed up 2 days later mentioning they could participate if interested
-
-**Result:**
-- They submitted high-quality tweet
-- Earned $25 $NUB
-- Their submission got 2,300 impressions
-- They thanked us for listening to feedback first
-
-**Why it worked:**
-- Asked for feedback before asking for action
-- Actually incorporated their input (showed we listen)
-- Made participation optional, not pushy
-- Built real relationship over 3-day period
-
-**Key insight:**
-People participate when they feel heard and valued, not when you just ask them to do something.
-
-**How to repeat:**
-1. DM for feedback with specific question
-2. Have real conversation (not transactional)
-3. Incorporate feedback visibly
-4. Follow up later with optional participation invite
-5. Thank them regardless of whether they participate
-
-**How to scale:**
-- This approach works, but can't scale to 100+ people
-- Target: 20-30 quality relationships per campaign
-- Prioritize active community members
-- Depth over breadth
-
----
-
 **Last updated:** January 13, 2026  
-**Next win:** TBD (listening tour in progress)
+**Next win:** TBD (monitoring for more submissions and listening tour responses)
