@@ -114,6 +114,62 @@ Higher effort + higher reward + creative freedom = better early participation th
 
 ---
 
+### Win #3: Campaign Goes Viral - 845 Participants, 675 Retweets
+
+**Date:** January 14, 2026
+
+**What we did:**
+- Nubcat campaign article went viral on Twitter
+- Quote tweet campaign gained massive organic traction
+- Orggly x Nubcat social campaigns collected submissions
+
+**Result:**
+- 675 retweets on the campaign article
+- 845 total participants submitted to the social campaign
+- Massive jump from 3 submissions (day 1) to 845 participants (day 2-3)
+- Budget: ~10,000 $NUB available for payouts
+- Currently reviewing submissions for guideline compliance before payment
+
+**Why it worked:**
+- Article resonated with Nubcat community
+- Quote tweet format encouraged participation (low friction)
+- Social proof kicked in once participation started
+- Nubcat community is highly engaged and active
+- Payment promise is credible after first payment proof
+
+**Key insight:**
+Going from 3 to 845 participants overnight proves the model works at scale. The bottleneck wasn't interest or participation, it was trust. Once you prove you pay, communities will engage. Now the challenge shifts from "getting submissions" to "managing quality and review at scale."
+
+**How to repeat:**
+1. Build initial trust with small provable payments (first 3-5)
+2. Create low-friction participation (quote tweet vs essay)
+3. Partner with engaged communities (not just any token)
+4. Let article/announcement go viral organically before pushing
+5. Have review infrastructure ready BEFORE campaign goes viral
+
+**How to scale:**
+- Need systematic review process (can't manually review 845 submissions)
+- Create clear quality tiers with corresponding payouts
+- Build community moderation (let community flag violations)
+- Automate payment distribution once review is done
+- Template this playbook for next token community partnership
+
+**Review approach planned:**
+- Tier 1 (Excellent): ~15% of submissions, highest payout
+- Tier 2 (Good): ~35% of submissions, medium payout  
+- Tier 3 (Basic but valid): ~30% of submissions, base payout
+- Rejected: ~20% didn't follow guidelines, no payment
+- Total budget: ~10,000 $NUB distributed across approved submissions
+
+**Related learnings:**
+- Viral campaigns create review bottleneck (need process before launch)
+- Quality distribution in mass participation is wide (expect 20% to ignore guidelines)
+- Community trust compounds exponentially once proven
+- Next campaign needs automated quality checks or community moderation
+- This validates the Orggly model at scale
+
+---
+
 ## Win Template (Copy This for New Wins)
 
 ### Win #[X]: [Name]
@@ -148,5 +204,5 @@ Higher effort + higher reward + creative freedom = better early participation th
 
 ---
 
-**Last updated:** January 13, 2026  
-**Next win:** TBD (monitoring for more submissions and listening tour responses)
+**Last updated:** January 14, 2026  
+**Next win:** TBD (currently reviewing 845 submissions from viral campaign)
